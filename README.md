@@ -5,11 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeburn12" alt="codeburn12" /></a> </p>
 
-- 🔭 I’m currently working on [Bazzar](https://github.com/codeburn12/Bazzar)
 
 - 🌱 I’m currently learning **Node.js, MongoDB, Express.js**
-
-- 👯 I’m looking to collaborate on [Readme Generator](https://github.com/codeburn12/GitHub-ReadMe)
 
 - 💬 Ask me about **JavaScript, React**
 
